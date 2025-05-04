@@ -1,0 +1,31 @@
+body {
+    background: #cecece;
+}
+ 
+
+p {
+    color: #222222;
+}
+
+.foto-principal{
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    width: 200px;
+    margin: 30px;
+    padding: 10px;
+}
+/*
+    padding - Espaçamento interno
+*/
+
+
+/*
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left:500px;
+*/
+
+/*  border-width: 5px;
+    border-color: black;
+    border-style:solid; 
+*/
